@@ -1,4 +1,4 @@
-const chronos = require('./chronos');
+const chronos = require('../chronos');
 
 describe('Tests: ', () => {
     it('1, 1, 1 day', () => {
